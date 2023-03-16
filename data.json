@@ -1,0 +1,30 @@
+{
+    "phones" : [
+        {
+            "imageURL":"https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Nokia 1100",
+            "price":"4500"
+        },
+        {
+            "imageURL":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fguide-images.cdn.ifixit.com%2Figi%2Fo4OjCNmNeOhvsS1P.large&imgrefurl=https%3A%2F%2Fwww.ifixit.com%2FDevice%2FPhone&tbnid=zUTGtlb-1MyIwM&vet=12ahUKEwjLzOCxndP9AhUa6XMBHeveAFsQMygCegUIARDjAQ..i&docid=xZjQXPy9VCi8UM&w=800&h=600&itg=1&q=phone&client=opera-gx&ved=2ahUKEwjLzOCxndP9AhUa6XMBHeveAFsQMygCegUIARDjAQ",
+            "name":"Nokia 5672",
+            "price":"100"
+        }
+    ],
+    "watches" : [
+        {
+            "imageURL":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fguide-images.cdn.ifixit.com%2Figi%2Fo4OjCNmNeOhvsS1P.large&imgrefurl=https%3A%2F%2Fwww.ifixit.com%2FDevice%2FPhone&tbnid=zUTGtlb-1MyIwM&vet=12ahUKEwjLzOCxndP9AhUa6XMBHeveAFsQMygCegUIARDjAQ..i&docid=xZjQXPy9VCi8UM&w=800&h=600&itg=1&q=phone&client=opera-gx&ved=2ahUKEwjLzOCxndP9AhUa6XMBHeveAFsQMygCegUIARDjAQ",
+            "name":"Casio",
+            "price":"4500"
+        },
+        {
+            "imageURL":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fguide-images.cdn.ifixit.com%2Figi%2Fo4OjCNmNeOhvsS1P.large&imgrefurl=https%3A%2F%2Fwww.ifixit.com%2FDevice%2FPhone&tbnid=zUTGtlb-1MyIwM&vet=12ahUKEwjLzOCxndP9AhUa6XMBHeveAFsQMygCegUIARDjAQ..i&docid=xZjQXPy9VCi8UM&w=800&h=600&itg=1&q=phone&client=opera-gx&ved=2ahUKEwjLzOCxndP9AhUa6XMBHeveAFsQMygCegUIARDjAQ",
+            "name":"LG",
+            "price":"100"
+        }
+
+    ],
+    "accessories":[
+        
+    ]
+}
