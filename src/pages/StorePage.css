@@ -40,19 +40,16 @@
   border: 2px solid rgb(131, 131, 247);
 }
 
-.filter-btn {
-  width: 150px;
-  height: 50px;
-  border: none;
-  background-color: rgb(25, 190, 255);
-  border-radius: 0.675rem;
-  color: #1b1b1b;
-  font-size: 1.5rem;
-  font-weight: bold;
-  cursor: pointer;
-  transition: 0.25s;
+.grid {
+  padding: 1rem;
 }
 
-.filter-btn:hover {
-  scale: 1.1;
+@media screen and (max-width: 768px) {
+  .main {
+    flex-direction: column;
+  }
+
+  .filter-container {
+    width: 80%;
+  }
 }

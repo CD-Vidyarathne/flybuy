@@ -3,13 +3,20 @@ import "./SingleProduct.css";
 
 const SingleProduct = ({ name, price, imageURL }) => {
   return (
-    <div className="product">
-      <img src={imageURL} alt="" className="product-img" />
-      <h1 className="product-name">{name}</h1>
-      <p className="product-price">Rs.{price}.00</p>
-      <a href="https://m.me/flybuytextile" className="buynow-btn">
-        <div>Buy Now</div>
-      </a>
+    <div class="card">
+      <div class="imgBox">
+        <img src={imageURL} alt={name} class="product-img" />
+      </div>
+
+      <div class="contentBox">
+        <h3>{name}</h3>
+        <h2 class="price">
+          Rs. {price}.<small>00</small>
+        </h2>
+        <a href="https://m.me/flybuytextile" class="buy" target="_blank">
+          Buy Now
+        </a>
+      </div>
     </div>
   );
 };

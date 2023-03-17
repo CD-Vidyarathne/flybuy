@@ -1,0 +1,29 @@
+.category {
+  margin-top: 2rem;
+}
+
+.category-title {
+  font-weight: bold;
+  color: white;
+  font-size: 2.5rem;
+  background-color: #191919;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+}
+
+.products {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 768px) {
+  .category-title {
+    text-align: center;
+  }
+
+  .products {
+    flex-direction: column;
+  }
+}

@@ -1,30 +1,451 @@
 {
     "phones" : [
         {
-            "imageURL":"https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Nokia 1110",
+            "price":"4500",
+			"inStock":true
+        },
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Nokia 105(2021)",
+            "price":"4500",
+			"inStock":true
+        },
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Nokia 105",
+            "price":"4500",
+			"inStock":true
+        },
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Nokia 106",
+            "price":"4000",
+			"inStock":true
+        },
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Nokia 1280",
+            "price":"3750",
+			"inStock":true
+        },
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Nokia 5130",
+            "price":"5000",
+			"inStock":true
+        },
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"samsung b310",
+            "price":"4500",
+			"inStock":true
+        },
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "name":"Nokia 1100",
-            "price":"4500"
+            "price":"4500",
+			"inStock":true
         },
-        {
-            "imageURL":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fguide-images.cdn.ifixit.com%2Figi%2Fo4OjCNmNeOhvsS1P.large&imgrefurl=https%3A%2F%2Fwww.ifixit.com%2FDevice%2FPhone&tbnid=zUTGtlb-1MyIwM&vet=12ahUKEwjLzOCxndP9AhUa6XMBHeveAFsQMygCegUIARDjAQ..i&docid=xZjQXPy9VCi8UM&w=800&h=600&itg=1&q=phone&client=opera-gx&ved=2ahUKEwjLzOCxndP9AhUa6XMBHeveAFsQMygCegUIARDjAQ",
-            "name":"Nokia 5672",
-            "price":"100"
-        }
-    ],
-    "watches" : [
-        {
-            "imageURL":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fguide-images.cdn.ifixit.com%2Figi%2Fo4OjCNmNeOhvsS1P.large&imgrefurl=https%3A%2F%2Fwww.ifixit.com%2FDevice%2FPhone&tbnid=zUTGtlb-1MyIwM&vet=12ahUKEwjLzOCxndP9AhUa6XMBHeveAFsQMygCegUIARDjAQ..i&docid=xZjQXPy9VCi8UM&w=800&h=600&itg=1&q=phone&client=opera-gx&ved=2ahUKEwjLzOCxndP9AhUa6XMBHeveAFsQMygCegUIARDjAQ",
-            "name":"Casio",
-            "price":"4500"
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"105 real phone",
+            "price":"4500",
+			"inStock":true
         },
-        {
-            "imageURL":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fguide-images.cdn.ifixit.com%2Figi%2Fo4OjCNmNeOhvsS1P.large&imgrefurl=https%3A%2F%2Fwww.ifixit.com%2FDevice%2FPhone&tbnid=zUTGtlb-1MyIwM&vet=12ahUKEwjLzOCxndP9AhUa6XMBHeveAFsQMygCegUIARDjAQ..i&docid=xZjQXPy9VCi8UM&w=800&h=600&itg=1&q=phone&client=opera-gx&ved=2ahUKEwjLzOCxndP9AhUa6XMBHeveAFsQMygCegUIARDjAQ",
-            "name":"LG",
-            "price":"100"
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Samsung b310(home)",
+            "price":"4500",
+			"inStock":true
         }
+	
+	
+	],
+    
+	
+	
+	
+	"watches" : [
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"ATOUCH WT8 Ultra",
+            "price":"7500",
+			"inStock":true
+        },
+        
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Watch 8 Max",
+            "price":"7500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"S8 Ultra Smart Watch",
+            "price":"7000",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Watch M26+",
+            "price":"0000",
+			"inStock":true
+        },
+		
+		{   "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Watch DM 02",
+            "price":"0000",
+			"inStock":true
+		},
+		
+		{   "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Watch T 55",
+            "price":"0000",
+			"inStock":true
+		},
+		
+		{   "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Watch 7",
+            "price":"0000",
+			"inStock":true
+		},
+		
+		{   "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Watch IW 8 max",
+            "price":"0000",
+			"inStock":true
+		},
+		{   "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"M7 Smart Band Watch",
+            "price":"0000",
+			"inStock":true
+		},
+		
+		{   "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Watch I8 pro Max",
+            "price":"0000",
+			"inStock":true
+		},
+		
+		{   "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"HW 8 watche",
+            "price":"0000",
+			"inStock":true
+		},
+		
+		{   "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Active 02 watch",
+            "price":"0000",
+			"inStock":true
+		},
+		
+		{   "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Z55 ultra Watch",
+            "price":"0000",
+			"inStock":true
+		},
+		
+		{   "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"S8 Ultra watch",
+            "price":"0000",
+			"inStock":true
+		}
+		,
+		{   "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"G6 Ultra watch",
+            "price":"0000",
+			"inStock":true
+		},
+		
+		{   "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Smart watch band",
+            "price":"0000",
+			"inStock":true
+		},
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"H7 watch",
+            "price":"0000",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Hitage Nee Band",
+            "price":"0000",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Smart T 500",
+            "price":"0000",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"W 26 Pro Max",
+            "price":"0000",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Smart watch",
+            "price":"0000",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Smart Bracelet",
+            "price":"0000",
+			"inStock":true
+        }
+		
+		
+		
+		
+		
 
     ],
-    "accessories":[
+    
+	
+	"accessories":[
+	    
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"MS-3621BT",
+            "price":"3750",
+			"inStock":true
+        },
         
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"JBL M3 (mini portable)",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Power bank A12)",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Power band PZX",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Air podes PRO case",
+            "price":"2500",
+			"inStock":true
+        }
+		,
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Air pods case full cover",
+            "price":"2500",
+			"inStock":true
+        }
+		,
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Zarin neek band Az 205",
+            "price":"2500",
+			"inStock":true
+        }
+		,
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Blutooth Handfree",
+            "price":"2500",
+			"inStock":true
+        }
+		,
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"BT neek band x2",
+            "price":"2500",
+			"inStock":true
+        }
+		,
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"3D lAMP",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"M38",
+            "price":"2500",
+			"inStock":true
+        },
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"JBL T450",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"JBL XB 550)",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Monster HeadPhone",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Pop-up window headset",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"AST 311 speaker",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Air 33",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Air Pods gen",
+            "price":"2500",
+			"inStock":true
+        }
+		,
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Air Pods PRO black",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Lenavo LP 40",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Lenavo LP 40 pro",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Lenavo Live pods",
+            "price":"2500",
+			"inStock":true
+        }
+		,
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Tucci TCL 790 MV",
+            "price":"2500",
+			"inStock":true
+        }
+		,
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"R19 Pro",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"K3 Pro",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"pro 5",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Air",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"M5 3622 BT speaker",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"KTX 1588 A speaker",
+            "price":"2500",
+			"inStock":true
+        },
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"KTS 1057 speaker",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"KTS 1096 speaker",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"GTS 1571 speaker",
+            "price":"2500",
+			"inStock":true
+        },
+		
+		{
+            "imageURL":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"MS mini speaker",
+            "price":"2500",
+			"inStock":true
+        }
     ]
 }
